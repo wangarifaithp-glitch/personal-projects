@@ -1,0 +1,10 @@
+{
+  "name": "Theme Nest",
+  "short_name": "Theme Nest",
+  "description": "Original wallpapers and screen styles made to feel like yours.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6eff8",
+  "theme_color": "#d66f9c",
+  "icons": []
+}
